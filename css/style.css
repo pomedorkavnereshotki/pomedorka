@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=cyrillic');
+
+* {
+	font-family: 'Open Sans', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	width: 1240px;
+	margin: 0 auto;
+}
+
+
+.main  {
+	background: url(../img/bg.jpg) center center no-repeat;
+
+	height: 100vh;
+}
+
+.main ul {
+	text-align: center;  
+	margin-left: 110px;
+}
+
+.main li {
+	display: inline-block;
+	margin-right: 90px;
+	margin-top: 70px; 
+}
+
+.primary-menu a {
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.primary-menu  a:hover {
+	color: #eadd00;
+}
+
+.titles {
+	text-align: center;
+	margin-top: 220px; 
+}
+
+.main h1 {
+	color: #fff;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	font-size: 52px;
+}
+
+.line {
+	margin: 0 auto;
+	width: 215px;
+	height: 1px;
+	background-color: #fff;
+	text-align:center;
+}
+
+.main p {
+	margin-top:20px ; 
+	color: #fff;
+	font-size: 25px;
+}
+
+.more  {
+	text-align: center;
+	margin-top: 160px;  
+	font-size: 20px
+}
+
+.more a {
+	color: #343433;
+	text-decoration: none;
+	background-color: #eadd00;
+	padding: 20px;
+	border-radius: 80px;  
+	text-transform: uppercase;  
+}
+
+.more a:hover {
+	background-color: #fff;
+	border: 3px solid  #eadd00;
+}
+
+.girl {
+	margin-top: 133px;
+	margin-bottom: 133px;
+}
+
+.hello {
+	font-size: 25px;
+	margin-top: -837px; 
+	margin-left: 490px; 
+}
+
+.info {
+	text-indent: 25px;
+	margin-left: 490px; 
+	margin-top: 20px; 
+}
+
+.portfolio h2 {
+	font-size: 35px;
+	text-align:center;
+	margin-top: 370px;
+}
+
+
